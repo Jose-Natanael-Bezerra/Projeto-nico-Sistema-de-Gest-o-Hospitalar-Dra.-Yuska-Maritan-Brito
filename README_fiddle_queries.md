@@ -1,6 +1,6 @@
-1- No site https://www.db-fiddle.com/ mude a linguagem para PostgreSQL v16 
+--1- No site https://www.db-fiddle.com/ mude a linguagem para PostgreSQL v16 
        
-2- Adicione o arquivo fiddle_schema no painel esquerdo do site fiddle chamado Schema
+--2- Adicione o arquivo fiddle_schema no painel esquerdo do site fiddle chamado Schema
 SQL
        
 -- Execute cada secao separadamente colando no painel direito do fiddle chamado query SQL e clicando em "Run" após colar.
